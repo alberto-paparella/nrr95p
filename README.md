@@ -1,3 +1,22 @@
 # nrr95p dataset
 
-A dataset containing information about standardised precipitation exceeding fixed percentiles (95) for Europe based on ERA5 [Extreme precipitation risk indicators for Europe and European cities from 1950 to 2019](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-european-risk-extreme-precipitation-indicators?tab=overview).
+A dataset containing information about daily standardised precipitation exceeding fixed percentiles (95) for Europe based on ERA5 [Extreme precipitation risk indicators for Europe and European cities from 1950 to 2019](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-european-risk-extreme-precipitation-indicators?tab=overview).
+
+In particular, it provides a directory for each year with daily images representing the nrr95p value, as well as one ore more directories for each year of gifs representing the evolution of this information over 10 days.
+
+One could also use the provided notebook to extract information about a missing year in the same format downloading the NetCDF file using the [form](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-european-risk-extreme-precipitation-indicators?tab=form) provided by ERA5 specifying:
+ - Spatial coverage: Europe
+ - Variable: Standardised precipitation exceeding fixed percentiles
+ - City: -
+ - Product type: ERA5
+ - Temporal aggregation: Daily
+ - Percentile: 95th
+ - Return period: -
+ - Period:
+   - Single year: \<the desired year\>
+   - Climatology: -
+ - Format: Zip file (.zip)
+
+and then extracting and moving the NetCDF file in the same directory of the notebook.
+
+The aim is to provide a simple dataset for experimenting with video prediction on climate data, especially for extreme events.
