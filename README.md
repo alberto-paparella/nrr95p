@@ -25,16 +25,7 @@ The aim is to provide a simple dataset for experimenting with video prediction o
 
 Images representing the nrr95p value over Europe over the first 10 days of 2019:
 
-![nrr95p_2019_0](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_0.png?raw=true)
-![nrr95p_2019_1](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_1.png?raw=true)
-![nrr95p_2019_2](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_2.png?raw=true)
-![nrr95p_2019_3](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_3.png?raw=true)
-![nrr95p_2019_4](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_4.png?raw=true)
-![nrr95p_2019_5](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_5.png?raw=true)
-![nrr95p_2019_6](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_6.png?raw=true)
-![nrr95p_2019_7](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_7.png?raw=true)
-![nrr95p_2019_8](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_8.png?raw=true)
-![nrr95p_2019_9](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_9.png?raw=true)
+![nrr95p_2019_0_to_9](https://github.com/alberto-paparella/nrr95p/blob/main/images/nrr95p_2019_0_to_9.png?raw=true)
 
 Gif spanning over the same first 10 days of 2019:
 
