@@ -20,3 +20,22 @@ One could also use the provided notebook to extract information about a missing 
 and then extracting and moving the NetCDF file in the same directory of the notebook.
 
 The aim is to provide a simple dataset for experimenting with video prediction on climate data, especially for extreme events.
+
+## Examples
+
+Images representing the nrr95p value over Europe over the first 10 days of 2019:
+
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_0.png)
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_1.png)
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_2.png)
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_3.png)
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_4.png)
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_5.png)
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_6.png)
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_7.png)
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_8.png)
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_9.png)
+
+Gif spanning over the same first 10 days of 2019:
+
+![h](https://github.dev/alberto-paparella/nrr95p/blob/bef04cf886fc570ea556ca35c9845621dbc265c9/images/nrr95p_2019_0_to_9.gif)
